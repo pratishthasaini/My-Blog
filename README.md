@@ -116,7 +116,11 @@ This project was created using the following technologies.
  - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
  
  ##  Screenshots 
- 
+
+![Screenshot from 2024-10-20 17-20-45](https://github.com/user-attachments/assets/89e22fec-892a-443d-ba96-3e56fc8687cc)
+![Screenshot from 2024-10-20 17-20-28](https://github.com/user-attachments/assets/8bfd3ff9-9aef-4503-9bf0-0714d3860627)
+![Screenshot from 2024-10-20 17-20-12](https://github.com/user-attachments/assets/33de5a5f-e808-4fc0-b360-ca306f799cf6)
+
 
 
 
